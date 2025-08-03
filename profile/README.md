@@ -1,4 +1,4 @@
-# 🚀 KD6 Quantum
+# 🚀 Dispersium
 ### *"Construindo o futuro com segurança, descentralização e performance extrema."*
 
 ## 💡 Quem Somos
