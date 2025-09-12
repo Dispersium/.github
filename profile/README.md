@@ -37,3 +37,7 @@
 #### *"Somos mais do que código — somos uma causa. Se você compartilha essa visão, vamos conversar. Juntos, podemos moldar um futuro verdadeiramente descentralizado."*
 
 ### 🛠️ Contribuições abertas!
+
+### Doações
+- #### Monero:
+        43PyvG9taLfiTtDgi2ECU7JAZodeoYmesJnYThcnRP9PWspg73bymu45Jxctccjoycd9fHaqwneSqfs8J39RTErCAVGy6Kf
