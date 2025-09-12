@@ -38,6 +38,6 @@
 
 ### 🛠️ Contribuições abertas!
 
-### Doações
+### Doações 🪙
 - #### Monero:
         43PyvG9taLfiTtDgi2ECU7JAZodeoYmesJnYThcnRP9PWspg73bymu45Jxctccjoycd9fHaqwneSqfs8J39RTErCAVGy6Kf
