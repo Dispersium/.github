@@ -1,6 +1,13 @@
 # Dispersium
 ### *"Construindo o futuro com segurança, descentralização e performance extrema."*
 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![I2P](https://img.shields.io/badge/I2P-FCC624?style=for-the-badge&logo=I2P&logoColor=black)
+![Bitcoin](https://img.shields.io/badge/bitcoin-2F3134?style=for-the-badge&logo=bitcoin&logoColor=white)
+![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)
+
+
 ## 💡 Quem Somos
 
 #### *"Somos um coletivo de desenvolvedores movidos pela inovação e liberdade digital. Unimos forças para criar soluções seguras, descentralizadas e de alta performance, explorando o poder do Blockchain, Smart Contracts, redes P2P, e tecnologias como I2P, Tor e Bitcoin."*
@@ -38,6 +45,7 @@
 
 ### 🛠️ Contribuições abertas!
 
-### Doações 🪙
-- #### Monero:
+### Doações
+  ![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)
+
         43PyvG9taLfiTtDgi2ECU7JAZodeoYmesJnYThcnRP9PWspg73bymu45Jxctccjoycd9fHaqwneSqfs8J39RTErCAVGy6Kf
